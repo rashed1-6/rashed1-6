@@ -33,6 +33,4 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
-<a href="https://komarev.com/ghpvc/?username=rashedfarouk&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
